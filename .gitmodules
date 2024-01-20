@@ -4,3 +4,6 @@
 [submodule "portfolio-joao"]
 	path = portfolio-joao
 	url = https://github.com/joaodest/portfolio-joao.git
+[submodule "portfolio-bff"]
+	path = portfolio-bff
+	url = ./portfolio-bff
