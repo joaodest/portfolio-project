@@ -6,4 +6,4 @@
 	url = https://github.com/joaodest/portfolio-joao.git
 [submodule "portfolio-bff"]
 	path = portfolio-bff
-	url = ./portfolio-bff
+	url = https://github.com/joaodest/portfolio-bff.git
